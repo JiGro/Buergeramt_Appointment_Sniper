@@ -1,6 +1,6 @@
 # Berlin Bürgeramt Appointment Scraper (Experimental Use ONLY)
 
-![Logo of the Project]([https://images.pexels.com/photos/2817497/pexels-photo-2817497.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2](https://images.pexels.com/photos/7821688/pexels-photo-7821688.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+![Logo of the Project]([https://images.pexels.com/photos/2817497/pexels-photo-2817497.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2](https://images.pexels.com/photos/7821688/pexels-photo-7821688.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2))
 
 This script is designed to experimentally scrape available appointments at Berlin's Bürgeramter (government offices) for document applications such as obtaining a driver's license or ID card. The script uses Selenium and BeautifulSoup to navigate the website and check for available appointments.
 
