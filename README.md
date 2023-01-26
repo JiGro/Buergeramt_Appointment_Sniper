@@ -41,7 +41,7 @@ You will need to have the following installed:
 ## Running the script
 To run the script, simply execute the following command:
 ```
-python script.py
+python BA_Termin_Sniper.py
 ```
 The script will start running and will continue until you either manually stop it or the range limit is reached. It will print out messages to indicate whether an appointment was successfully booked, or if no appointment slots were available.
 
